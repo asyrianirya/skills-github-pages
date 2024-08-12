@@ -1,6 +1,6 @@
 ---
 title: "YOUR-TITLE"
-date: YYYY-MM-DD
+date: 2024-08-12
 ---
 
 TEST
